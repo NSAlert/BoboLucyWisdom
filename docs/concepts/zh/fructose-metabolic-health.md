@@ -74,3 +74,8 @@ source_posts:
 
 - *Nature Metabolism* 果糖综述（2025）
 - @BoboLucyWisdom 健康帖
+
+### 原始来源文件
+
+- [↩ X Post原文](../../raw/x-posts/2026-05-02-为什么要少吃水果如何选择更健康的水果爱吃水果的你要看完这篇帖-2050409948174057757.md.md)
+
