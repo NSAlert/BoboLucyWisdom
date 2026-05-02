@@ -1,7 +1,7 @@
 # BoboLucyWisdom Wiki - HOWTO Access & Search
 
-**Live Site:** https://edward1wang.github.io/BoboLucyWisdom/  
-**Source:** https://github.com/edward1wang/BoboLucyWisdom
+**Live Site:** https://NSAlert.github.io/BoboLucyWisdom/  
+**Source:** https://github.com/NSAlert/BoboLucyWisdom
 
 ---
 
@@ -10,7 +10,7 @@
 ### Option 1: Browse Online (Easiest)
 Just visit the live site:
 ```
-https://edward1wang.github.io/BoboLucyWisdom/
+https://NSAlert.github.io/BoboLucyWisdom/
 ```
 
 - ✅ Search works instantly
@@ -24,7 +24,7 @@ https://edward1wang.github.io/BoboLucyWisdom/
 
 ```bash
 # Clone the repo
-git clone https://github.com/edward1wang/BoboLucyWisdom.git
+git clone https://github.com/NSAlert/BoboLucyWisdom.git
 
 # Install requirements
 pip install mkdocs mkdocs-material
@@ -44,7 +44,7 @@ mkdocs serve
 
 ```bash
 # Clone the repo
-git clone https://github.com/edward1wang/BoboLucyWisdom.git
+git clone https://github.com/NSAlert/BoboLucyWisdom.git
 
 # Open docs folder in your favorite editor
 cd BoboLucyWisdom/docs
@@ -106,7 +106,7 @@ ollama serve
 pip install hermes-cli
 
 # Clone wiki
-git clone https://github.com/edward1wang/BoboLucyWisdom.git
+git clone https://github.com/NSAlert/BoboLucyWisdom.git
 
 # Start Hermes from wiki folder
 cd BoboLucyWisdom
